@@ -1,1 +1,1 @@
-vagrant task on gitbash
+vagrant task on gitbash terminal
